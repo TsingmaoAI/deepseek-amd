@@ -1,3 +1,16 @@
+
+# 一键部署教程 🚀（推荐方式）
+
+> **推荐用户优先使用此方式完成部署，操作简单、无需命令行基础。**
+
+1. 解压 **aipc-ds.zip** 压缩包，运行其中的 `setup` 安装软件主体；  
+2. 可自行选择安装位置；  
+3. 在运行前**务必将模型权重所有文件夹**放入安装目录下的 `AIPC-DS\ds-amd\_internal\models` 文件夹中；  
+4. 双击运行桌面图标或 `AIPC.exe` 启动程序。
+
+📦 安装包下载链接（通过百度网盘分享）：  
+**[ 点击下载 aipc-ds.zip ](https://pan.baidu.com/s/1CjGXViEEK2A0SjgXUruLLA?pwd=ecxk)** 提取码: `ecxk`
+
 # Introduction
 在AMD Ryzen系列芯片上部署deepseek模型，支持的模型列表如下：
 
